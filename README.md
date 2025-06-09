@@ -1,5 +1,6 @@
 ## Hi there 👋
 <br>
+This is my first git repository...
 Author - Akansha Thosar
 <!--
 **akanshathosar/akanshathosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
